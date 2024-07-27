@@ -17,3 +17,4 @@
 
 <h3 align="left">Affiliations</h3>
 - BYTE Club Spring 2024 Cohort
+- Headstarter fellowship
